@@ -179,6 +179,17 @@ span{
     margin-top: -40px !important;
 }
 
+.btn_aplicacion{
+    background-color: white;
+    border-color: #7db5c5 !important;
+    color: #7db5c5 !important;
+    border-radius: 8px;
+}
+.btn_aplicacion:hover{
+    background-color: #7db5c5 !important;
+    color: white !important;
+}
+
 @media (min-width: 1000px) {
     body{
         padding: 0 250px 0 250px;

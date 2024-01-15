@@ -1,0 +1,13 @@
+{
+    "name": "La Marquesa Ediciones",
+    "short_name": "Marquesa",
+    "icons": [
+      {
+        "src": "./assets/img/LOGO FINAL AZUL 2-01.png",
+        "sizes": "192x192",
+        "type": "image/png"
+      }
+    ],
+    "start_url": "https://enlace-de.github.io/Marquesa/",
+    "display": "standalone"
+  }
